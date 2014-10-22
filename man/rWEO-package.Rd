@@ -34,5 +34,4 @@ http://www.imf.org/
 \seealso{
 }
 \examples{
-~~ simple examples of the most important functions ~~
 }
