@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{rWEO-package}\n\\alias{rWEO-package}\n\\alias{rWEO}\n\\docType{package}\n\\title{\nAccess latest IMF World Economic Outlook (WEO) in R.\n}\n\\description{\nThe rWEO package allows R to directly access World Economic Outlook data.\nWorld Economic Outlook is basically a survey conducted and published by the International Monetary Fund. \nIt is published twice and partly updated 3 times a year. \nIt portrays the world economy in the near and medium context (basically 4 years). \nWEO forecasts include the macroeconomic indicators, such as GDP, inflation, current account and fiscal balance of more than 180 countries around the globe. It also deals with major economic policy issues.\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab rWEO\\cr\nType: \\tab Package\\cr\nVersion: \\tab 0.1.1\\cr\nDate: \\tab 2014-10-21\\cr\nLicense: \\tab GPL-3\\cr\n}\n}\n\\author{\nMing-Jer Lee\n\nMaintainer: Ming-Jer Lee <mingjerli@gmail.com>\n}\n\\references{\nInternational Monetary Fund:\nhttp://www.imf.org/\n}\n\\keyword{ package }\n\\seealso{\n}\n\\examples{\n~~ simple examples of the most important functions ~~\n}\n",
+    "created" : 1413983535112.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "249989210",
+    "id" : "DE4CE059",
+    "lastKnownWriteTime" : 1413984583,
+    "path" : "~/Rwork/rWEO/man/rWEO-package.Rd",
+    "project_path" : "man/rWEO-package.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

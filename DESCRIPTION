@@ -1,0 +1,11 @@
+Package: rWEO
+Title: Access International Monetary Fund(IMF) World Economic Outlook(WEO) data.
+Version: 0.1.1
+Date: 2014-10-21
+Author: Ming-Jer Lee
+Maintainer: Ming-Jer Lee <mingjerli@gmail.com>
+Description: World Economic Outlook is basically a survey conducted and published by the International Monetary Fund. It is published twice and partly updated 3 times a year. It portrays the world economy in the near and medium context (basically 4 years). WEO forecasts include the macroeconomic indicators, such as GDP, inflation, current account and fiscal balance of more than 180 countries around the globe. It also deals with major economic policy issues.
+License: GPL-3
+Imports: dplyr  
+URL: https://github.com/mingjerli/
+

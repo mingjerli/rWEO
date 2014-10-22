@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{searchWEO}\n\\alias{searchWEO}\n%- Also NEED an '\\alias' for EACH other topic documented here.\n\\title{\nGet a data catalog as a data frame.\n}\n\\description{\nThis function will return the WEO result for given country or subject.\n}\n\\usage{\nsearchWEO(WEOCountryCode=NULL, ISOCode=NULL, Country=NULL, WEOSubCode=NULL)\n}\n\\arguments{\n  \\item{WEOCountryCode}{Numerical values to represent WEO country codes, see \\code{availableWEOCountryCode()}}\n  \\item{ISOCode}{Characters to represent country ISO codes, see \\code{availableISOCode()}}\n  \\item{Country}{Characters to represent country names, see \\code{availableCountry()}}\n  \\item{WEOSubCode}{Characters to represent WEO subject codes, see \\code{availableSubCode()}}\n}\n\\value{\nThis function will return a data frame if the data catalog is available, otherwise it will show how to access the data catalog and return NA.\n}\n\\author{\nMing-Jer Lee <mingjerli@gmail.com>\n}\n\\examples{\nWEO512result <- searchWEO(WEOCountryCode=512)\nprint(WEO512result)\nUSAresult <- searchWEO(ISOCode=\"USA\")\nprint(USAresult)\nUSAPCPIresult <- searchWEO(ISOCode=\"USA\", WEOSubCode=\"PCPI\")\nprint(USAPCPIresult)\nUSA512PCPIresult <- searchWEO(ISOCode=\"USA\", WEOCountryCode=512, WEOSubCode=\"PCPI\")\nprint(USA512PCPIresult)\n}\n\n",
+    "created" : 1413985347977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1877976541",
+    "id" : "607D2613",
+    "lastKnownWriteTime" : 1413986726,
+    "path" : "~/Rwork/rWEO/man/searchWEO.Rd",
+    "project_path" : "man/searchWEO.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

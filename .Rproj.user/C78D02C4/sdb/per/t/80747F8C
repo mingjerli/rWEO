@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{availableCountry}\n\\alias{availableCountry}\n%- Also NEED an '\\alias' for EACH other topic documented here.\n\\title{\nSearch available names and codes.\n}\n\\description{\nShow available country names, ISO codes, WEO country codes, WEO subject codes for \\code{searchWEO()}.\n}\n\\usage{\navailableISOCode()\navailableCountry()\navailableWEOCountryCode()\navailableWEOSubjectCode()\n}\n\\author{\nMing-Jer Lee <mingjerli@gmail.com>\n}\n\\examples{\navailableISOCode()\navailableCountry()\navailableWEOCountryCode()\navailableWEOSubjectCode()\n}",
+    "created" : 1413987367406.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2905828937",
+    "id" : "80747F8C",
+    "lastKnownWriteTime" : 1413987832,
+    "path" : "~/Rwork/rWEO/man/availableCountry.Rd",
+    "project_path" : "man/availableCountry.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}
