@@ -2,7 +2,7 @@
 \alias{availableCountry}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Search available names and codes.
+SEARCH AVAILABLE CODES AND NAMES
 }
 \description{
 Show available country names, ISO codes, WEO country codes, WEO subject codes for \code{searchWEO()}.

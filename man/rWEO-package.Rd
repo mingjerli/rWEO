@@ -3,7 +3,7 @@
 \alias{rWEO}
 \docType{package}
 \title{
-Access latest IMF World Economic Outlook (WEO) in R.
+ACCESS LATEST IMF WORLD ECONOMIC OUTLOOK (WEO) DATA IN R
 }
 \description{
 The rWEO package allows R to directly access World Economic Outlook data.

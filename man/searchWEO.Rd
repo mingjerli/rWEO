@@ -2,7 +2,7 @@
 \alias{searchWEO}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-Get a data catalog as a data frame.
+SEARCH FOR AVAILABLE WEO DATA
 }
 \description{
 This function will return the WEO result for given country or subject.
